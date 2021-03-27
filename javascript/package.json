@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "farthest-node": "node farthest-node.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
