@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "farthest-node": "node farthest-node.js"
+    "farthest-vertices": "node farthest-vertices.js",
+    "boxing-ranking": "node boxing-ranking.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
