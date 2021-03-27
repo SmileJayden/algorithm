@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "farthest-vertices": "node farthest-vertices.js",
-    "boxing-ranking": "node boxing-ranking.js"
+    "boxing-ranking": "node boxing-ranking.js",
+    "room-count": "node room-count.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
