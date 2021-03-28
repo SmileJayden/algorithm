@@ -6,7 +6,8 @@
   "scripts": {
     "farthest-vertices": "node farthest-vertices.js",
     "boxing-ranking": "node boxing-ranking.js",
-    "room-count": "node room-count.js"
+    "room-count": "node room-count.js",
+    "cross-bridge-truck": "node cross-bridge-truck.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
