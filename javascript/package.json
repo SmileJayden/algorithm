@@ -8,7 +8,8 @@
     "boxing-ranking": "node boxing-ranking.js",
     "room-count": "node room-count.js",
     "cross-bridge-truck": "node cross-bridge-truck.js",
-    "function-develop": "node function-develop.js"
+    "function-develop": "node function-develop.js",
+    "printer": "node printer.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
