@@ -9,7 +9,8 @@
     "room-count": "node room-count.js",
     "cross-bridge-truck": "node cross-bridge-truck.js",
     "function-develop": "node function-develop.js",
-    "printer": "node printer.js"
+    "printer": "node printer.js",
+    "stolen-gym-suit": "node stolen-gym-suit.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
