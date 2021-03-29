@@ -10,7 +10,8 @@
     "cross-bridge-truck": "node cross-bridge-truck.js",
     "function-develop": "node function-develop.js",
     "printer": "node printer.js",
-    "stolen-gym-suit": "node stolen-gym-suit.js"
+    "stolen-gym-suit": "node stolen-gym-suit.js",
+    "joy-stick": "node joy-stick.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
