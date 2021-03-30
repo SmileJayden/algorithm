@@ -11,7 +11,8 @@
     "function-develop": "node function-develop.js",
     "printer": "node printer.js",
     "stolen-gym-suit": "node stolen-gym-suit.js",
-    "joy-stick": "node joy-stick.js"
+    "joy-stick": "node joy-stick.js",
+    "express-by-n": "node express-by-n.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
