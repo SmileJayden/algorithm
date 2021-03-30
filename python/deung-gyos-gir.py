@@ -1,4 +1,4 @@
-def solution(m, n, puddles):
+def solution(m: int, n: int, puddles: [[int]]):
     memoization_table = [[0] * (m + 1) for _ in range(n + 1)]
     if puddles != [[]]:
         for [x, y] in puddles:

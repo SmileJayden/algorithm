@@ -1,4 +1,4 @@
-def solution(triangle):
+def solution(triangle: [[int]]):
     for i, row in enumerate(triangle):
         for j, elem in enumerate(row):
             if i == j == 0:
