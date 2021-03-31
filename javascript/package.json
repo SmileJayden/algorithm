@@ -14,7 +14,8 @@
     "joy-stick": "node joy-stick.js",
     "express-by-n": "node express-by-n.js",
     "word-change": "node word-change.js",
-    "travel-course": "node travel-course.js"
+    "travel-course": "node travel-course.js",
+    "lock-and-key": "node lock-and-key.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
