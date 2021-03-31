@@ -12,7 +12,9 @@
     "printer": "node printer.js",
     "stolen-gym-suit": "node stolen-gym-suit.js",
     "joy-stick": "node joy-stick.js",
-    "express-by-n": "node express-by-n.js"
+    "express-by-n": "node express-by-n.js",
+    "word-change": "node word-change.js",
+    "travel-course": "node travel-course.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
