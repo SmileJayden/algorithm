@@ -16,7 +16,8 @@
     "word-change": "node word-change.js",
     "travel-course": "node travel-course.js",
     "lock-and-key": "node lock-and-key.js",
-    "chuseok-traffic": "node chuseok-traffic.js"
+    "chuseok-traffic": "node chuseok-traffic.js",
+    "renew-id-recommendation": "node renew-id-recommendation.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
