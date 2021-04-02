@@ -15,7 +15,8 @@
     "express-by-n": "node express-by-n.js",
     "word-change": "node word-change.js",
     "travel-course": "node travel-course.js",
-    "lock-and-key": "node lock-and-key.js"
+    "lock-and-key": "node lock-and-key.js",
+    "chuseok-traffic": "node chuseok-traffic.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
