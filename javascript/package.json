@@ -18,7 +18,8 @@
     "lock-and-key": "node lock-and-key.js",
     "chuseok-traffic": "node chuseok-traffic.js",
     "renew-id-recommendation": "node renew-id-recommendation.js",
-    "outer-wall-inspection": "node outer-wall-inspection.js"
+    "outer-wall-inspection": "node outer-wall-inspection.js",
+    "pillow-and-bo": "node pillow-and-bo.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
