@@ -19,7 +19,8 @@
     "chuseok-traffic": "node chuseok-traffic.js",
     "renew-id-recommendation": "node renew-id-recommendation.js",
     "outer-wall-inspection": "node outer-wall-inspection.js",
-    "pillow-and-bo": "node pillow-and-bo.js"
+    "pillow-and-bo": "node pillow-and-bo.js",
+    "zigzag": "node zigzag.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
