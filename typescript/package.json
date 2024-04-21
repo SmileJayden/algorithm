@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "longestCommonPrefix": "ts-node longest-common-prefix.ts"
+    "longestCommonPrefix": "ts-node longest-common-prefix.ts",
+    "randomMatch": "ts-node random-match/index.ts"
   },
   "devDependencies": {
     "prettier": "^2.7.1",

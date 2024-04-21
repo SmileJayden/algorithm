@@ -20,7 +20,9 @@
     "renew-id-recommendation": "node renew-id-recommendation.js",
     "outer-wall-inspection": "node outer-wall-inspection.js",
     "pillow-and-bo": "node pillow-and-bo.js",
-    "zigzag": "node zigzag.js"
+    "zigzag": "node zigzag.js",
+    "sicp": "node sicp.js",
+    "diamond": "node diamond.js"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
