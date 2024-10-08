@@ -4,10 +4,10 @@ function diceRole() {
   while (true) {
     const shuffled = groupEveryCouple(shuffle(LIST));
 
-    let dice = false;
+    let shouldRedice = false;
 
     for (const done of DONE_LIST) {
-      const result = done.some((elem) => {
+      const hasSomePair = done.some((elem) => {
         const [A, B] = elem;
 
         return shuffled.some((x) => {
@@ -15,17 +15,14 @@ function diceRole() {
         });
       });
 
-      if (result) {
-        dice = true;
-        break;
+      if (hasSomePair) {
+        shouldRedice = true;
       }
     }
 
-    if (dice) {
-      continue;
+    if (!shouldRedice) {
+      return shuffled;
     }
-
-    return shuffled;
   }
 }
 
