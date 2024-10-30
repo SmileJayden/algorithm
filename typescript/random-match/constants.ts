@@ -22,6 +22,12 @@ export const DONE_LIST = [
     [예진, 재영],
     [시온, 청운],
   ],
+  [
+    [청운, 현아],
+    [재윤, 수인],
+    [시온, 재영],
+    [예진, 유민],
+  ],
 ] as const;
 
 export function shuffle<T extends any>(array: Array<T>) {
